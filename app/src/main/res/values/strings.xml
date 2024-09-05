@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Teste DEV JR Android Kotlin</string>
+    <string name="menu_products_title">Estoque</string>
+    <string name="menu_orders_title">Vendas</string>
+</resources>
